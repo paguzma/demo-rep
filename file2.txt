@@ -1,7 +1,4 @@
 some content
-<<<<<<< HEAD
-=======
 some more content
 last items
 this is the last
->>>>>>> my-great-feature
